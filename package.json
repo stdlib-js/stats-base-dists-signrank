@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-signrank",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Distribution of Wilcoxon signed rank test statistic.",
   "license": "Apache-2.0",
   "author": {
