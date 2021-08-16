@@ -59,6 +59,8 @@ The namespace contains the following distribution functions:
 
 </div>
 
+<!-- </toc> -->
+
 </section>
 
 <!-- /.usage -->
@@ -138,12 +140,6 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-signrank/main/LICENSE
 
 <!-- <toc-links> -->
-
-[@stdlib/stats/base/dists/signrank/cdf]: https://github.com/stdlib-js/stdlib
-
-[@stdlib/stats/base/dists/signrank/pdf]: https://github.com/stdlib-js/stdlib
-
-[@stdlib/stats/base/dists/signrank/quantile]: https://github.com/stdlib-js/stdlib
 
 <!-- </toc-links> -->
 
