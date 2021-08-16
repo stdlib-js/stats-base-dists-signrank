@@ -57,6 +57,10 @@ The namespace contains the following distribution functions:
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`cdf( x, n )`][@stdlib/stats/base/dists/signrank/cdf]</span><span class="delimiter">: </span><span class="description">wilcoxon signed rank test statistic cumulative distribution function.</span>
+-   <span class="signature">[`pdf( x, n )`][@stdlib/stats/base/dists/signrank/pdf]</span><span class="delimiter">: </span><span class="description">wilcoxon signed rank test statistic probability density function.</span>
+-   <span class="signature">[`quantile( p, n )`][@stdlib/stats/base/dists/signrank/quantile]</span><span class="delimiter">: </span><span class="description">wilcoxon signed rank test statistic quantile function.</span>
+
 </div>
 
 <!-- </toc> -->
@@ -140,6 +144,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-signrank/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/stats/base/dists/signrank/cdf]: https://github.com/stdlib-js/stats-base-dists-signrank-cdf
+
+[@stdlib/stats/base/dists/signrank/pdf]: https://github.com/stdlib-js/stats-base-dists-signrank-pdf
+
+[@stdlib/stats/base/dists/signrank/quantile]: https://github.com/stdlib-js/stats-base-dists-signrank-quantile
 
 <!-- </toc-links> -->
 
