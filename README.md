@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import signrank from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-signrank@esm/index.mjs';
+import signrank from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-signrank@v0.2.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { cdf, pdf, quantile } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-signrank@esm/index.mjs';
+import { cdf, pdf, quantile } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-signrank@v0.2.0-esm/index.mjs';
 ```
 
 #### signrank
@@ -93,7 +93,7 @@ The namespace contains the following distribution functions:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import signrank from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-signrank@esm/index.mjs';
+import signrank from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-signrank@v0.2.0-esm/index.mjs';
 
 console.log( objectKeys( signrank ) );
 
