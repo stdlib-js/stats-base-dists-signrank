@@ -4,9 +4,43 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2025-03-10)
 
-No changes reported for this release.
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`fc14734`](https://github.com/stdlib-js/stdlib/commit/fc14734d1c1c3b58408d11c8d2ab40bdc3aa9d49) - **refactor:** explicitly return zero for non-integer x _(by Philipp Burckhardt)_
+-   [`2965f8f`](https://github.com/stdlib-js/stdlib/commit/2965f8f4d1469ed76c7d9c150b39a87b62d73fbd) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`318f280`](https://github.com/stdlib-js/stdlib/commit/318f28057bf00d910a656c4f315b8de17f89d3b5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
 
 </section>
 
