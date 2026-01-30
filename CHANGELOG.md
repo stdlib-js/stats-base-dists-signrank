@@ -2,9 +2,52 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-05-19)
+## 0.3.0 (2026-01-30)
+
+<section class="features">
+
+### Features
+
+-   [`e6823fe`](https://github.com/stdlib-js/stdlib/commit/e6823fe95a468d4c981dffb05dbc04149e15083d) - add C implementation for `stats/base/dists/signrank/pdf` [(#4637)](https://github.com/stdlib-js/stdlib/pull/4637)
+
+</section>
+
+<!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`90f0ddf`](https://github.com/stdlib-js/stdlib/commit/90f0ddf5cf57ea682898f62445a7a018fa582386) - add missing decimals
+-   [`6e8daa6`](https://github.com/stdlib-js/stdlib/commit/6e8daa697b0d0cd11b156fe844cbd7a54fbdc89a) - use correct dependency name
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="reverts">
+
+### Reverts
+
+-   [`932f042`](https://github.com/stdlib-js/stdlib/commit/932f0422195ffa4db9efaca5e060881716aae006) - chore: add src to directories
+
+</section>
+
+<!-- /.reverts -->
+
+<section class="issues">
+
+### Closed Issues
+
+A total of 2 issues were closed in this release:
+
+[#3884](https://github.com/stdlib-js/stdlib/issues/3884), [#7624](https://github.com/stdlib-js/stdlib/issues/7624)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +55,17 @@
 
 <details>
 
+-   [`221e7ef`](https://github.com/stdlib-js/stdlib/commit/221e7efeec2d6c2e74c977b3e3f2f2fadb63860a) - **bench:** update random value generation [(#9976)](https://github.com/stdlib-js/stdlib/pull/9976) _(by Harsh Yadav)_
+-   [`932f042`](https://github.com/stdlib-js/stdlib/commit/932f0422195ffa4db9efaca5e060881716aae006) - **revert:** chore: add src to directories _(by Philipp Burckhardt)_
+-   [`3b896f1`](https://github.com/stdlib-js/stdlib/commit/3b896f19550d799ea5a61d386974f6ce1f341eaa) - **chore:** add src to directories _(by Philipp Burckhardt)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
+-   [`a63b948`](https://github.com/stdlib-js/stdlib/commit/a63b94861bb8c0ba67e67f4a3aaec8f7f8dd59f0) - **chore:** address commit comments for commit `e6823fe` [(#7632)](https://github.com/stdlib-js/stdlib/pull/7632) _(by Anmol Sah)_
+-   [`90f0ddf`](https://github.com/stdlib-js/stdlib/commit/90f0ddf5cf57ea682898f62445a7a018fa582386) - **fix:** add missing decimals _(by Athan Reines)_
+-   [`6e8daa6`](https://github.com/stdlib-js/stdlib/commit/6e8daa697b0d0cd11b156fe844cbd7a54fbdc89a) - **fix:** use correct dependency name _(by Philipp Burckhardt)_
+-   [`e6823fe`](https://github.com/stdlib-js/stdlib/commit/e6823fe95a468d4c981dffb05dbc04149e15083d) - **feat:** add C implementation for `stats/base/dists/signrank/pdf` [(#4637)](https://github.com/stdlib-js/stdlib/pull/4637) _(by Lokesh Ranjan, Philipp Burckhardt)_
 -   [`fc14734`](https://github.com/stdlib-js/stdlib/commit/fc14734d1c1c3b58408d11c8d2ab40bdc3aa9d49) - **refactor:** explicitly return zero for non-integer x _(by Philipp Burckhardt)_
 -   [`2965f8f`](https://github.com/stdlib-js/stdlib/commit/2965f8f4d1469ed76c7d9c150b39a87b62d73fbd) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`318f280`](https://github.com/stdlib-js/stdlib/commit/318f28057bf00d910a656c4f315b8de17f89d3b5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
@@ -26,8 +80,12 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Anmol Sah
+-   Athan Reines
+-   Harsh Yadav
+-   Lokesh Ranjan
 -   Philipp Burckhardt
 
 </section>
