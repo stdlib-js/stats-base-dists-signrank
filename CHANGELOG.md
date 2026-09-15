@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-09-15)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`6d5eafc`](https://github.com/stdlib-js/stdlib/commit/6d5eafc44e2a11f86270fcc55cd91df950fb5758) - **test:** migrate `stats/base/dists/signrank/quantile` to ULP-based assertions [(#14154)](https://github.com/stdlib-js/stdlib/pull/14154) _(by Athan Reines)_
 -   [`4b25135`](https://github.com/stdlib-js/stdlib/commit/4b2513556546cf3dfcc8fb9adb61d5dccaedbcbe) - **chore:** clean-up [(#13626)](https://github.com/stdlib-js/stdlib/pull/13626) _(by Philipp Burckhardt)_
 -   [`a82a225`](https://github.com/stdlib-js/stdlib/commit/a82a2255378b0800f8eca51b43bd51a9ac9ab4c2) - **feat:** add C implementation for `stats/base/dists/signrank/cdf` [(#4482)](https://github.com/stdlib-js/stdlib/pull/4482) _(by Dev Goel, Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`112dcfc`](https://github.com/stdlib-js/stdlib/commit/112dcfcf5333be07ec3986193a011220762a0591) - **docs:** fix string interpolation and missing JSDoc annotations [(#13284)](https://github.com/stdlib-js/stdlib/pull/13284) _(by Philipp Burckhardt)_
@@ -51,8 +52,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Dev Goel
 -   Mara Averick
 -   Neeraj Pathak
