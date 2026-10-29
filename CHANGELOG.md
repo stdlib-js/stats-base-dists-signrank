@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-15)
+## Unreleased (2026-10-29)
 
 <section class="features">
 
@@ -34,6 +34,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`ad8f864`](https://github.com/stdlib-js/stdlib/commit/ad8f864672ca42594a6d382b0c23e4d9f77e6c52) - **docs:** update descriptions [(#16336)](https://github.com/stdlib-js/stdlib/pull/16336) _(by Philipp Burckhardt)_
+-   [`8f62240`](https://github.com/stdlib-js/stdlib/commit/8f622403b8f6ff3781a17dc7ceb077e341e91aa3) - **docs:** clean-up [(#16084)](https://github.com/stdlib-js/stdlib/pull/16084) _(by Philipp Burckhardt)_
+-   [`4fe3c4a`](https://github.com/stdlib-js/stdlib/commit/4fe3c4a9258e5c9f22d1879690f3147e46439e89) - **test:** migrate `stats/base/dists/signrank/pdf` to ULP-based assertions [(#15899)](https://github.com/stdlib-js/stdlib/pull/15899) _(by Athan Reines)_
 -   [`6d5eafc`](https://github.com/stdlib-js/stdlib/commit/6d5eafc44e2a11f86270fcc55cd91df950fb5758) - **test:** migrate `stats/base/dists/signrank/quantile` to ULP-based assertions [(#14154)](https://github.com/stdlib-js/stdlib/pull/14154) _(by Athan Reines)_
 -   [`4b25135`](https://github.com/stdlib-js/stdlib/commit/4b2513556546cf3dfcc8fb9adb61d5dccaedbcbe) - **chore:** clean-up [(#13626)](https://github.com/stdlib-js/stdlib/pull/13626) _(by Philipp Burckhardt)_
 -   [`a82a225`](https://github.com/stdlib-js/stdlib/commit/a82a2255378b0800f8eca51b43bd51a9ac9ab4c2) - **feat:** add C implementation for `stats/base/dists/signrank/cdf` [(#4482)](https://github.com/stdlib-js/stdlib/pull/4482) _(by Dev Goel, Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
