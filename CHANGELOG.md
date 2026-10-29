@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`eef749f`](https://github.com/stdlib-js/stdlib/commit/eef749f052ecc232d3a8fc80d2b994ef00c951d1) - **docs:** update description [(#16342)](https://github.com/stdlib-js/stdlib/pull/16342) _(by stdlib-bot)_
 -   [`ad8f864`](https://github.com/stdlib-js/stdlib/commit/ad8f864672ca42594a6d382b0c23e4d9f77e6c52) - **docs:** update descriptions [(#16336)](https://github.com/stdlib-js/stdlib/pull/16336) _(by Philipp Burckhardt)_
 -   [`8f62240`](https://github.com/stdlib-js/stdlib/commit/8f622403b8f6ff3781a17dc7ceb077e341e91aa3) - **docs:** clean-up [(#16084)](https://github.com/stdlib-js/stdlib/pull/16084) _(by Philipp Burckhardt)_
 -   [`4fe3c4a`](https://github.com/stdlib-js/stdlib/commit/4fe3c4a9258e5c9f22d1879690f3147e46439e89) - **test:** migrate `stats/base/dists/signrank/pdf` to ULP-based assertions [(#15899)](https://github.com/stdlib-js/stdlib/pull/15899) _(by Athan Reines)_
